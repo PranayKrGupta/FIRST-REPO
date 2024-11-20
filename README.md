@@ -1,3 +1,3 @@
-This is my First Repository on GITHUB .
+This is my <b>First Repository</b> on <b>GITHUB</b> .
 <br>
-<cite>~By Pranay Kumar Gupta</cite>
+<cite>~By <b>Pranay Kumar Gupta</b></cite>
